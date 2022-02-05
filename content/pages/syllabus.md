@@ -39,9 +39,54 @@ Grading Policy
 
 There will be 7 homework assignments and 2 two-hour exams. Each student is also expected to complete 1 project.
 
-| Activities | Percentages |
-| --- | --- |
-| First Exam | 30% |
-| Second Exam | 30% |
-| Homework Assignments | 20% |
-| Term Project | 20%
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Activities
+{{< thclose >}}
+{{< thopen >}}
+Percentages
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+First Exam
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Second Exam
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework Assignments
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Term Project
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
