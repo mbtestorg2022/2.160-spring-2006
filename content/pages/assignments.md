@@ -66,7 +66,7 @@ ps5files.zip ([ZIP]({{< baseurl >}}/resources/ps5files)) (The ZIP file contains:
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 6 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ps6))
+Problem Set 6 ([PDF]({{< baseurl >}}/resources/ps6))
 {{< tdclose >}}
 {{< tdopen >}}
  
