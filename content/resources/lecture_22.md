@@ -5,6 +5,7 @@ description: This resource includes information maximum likelihood estimate, lik
   bound.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-160-identification-estimation-and-learning-spring-2006/e414a5b5eb985d4561327e329775d9fa_lecture_22.pdf
 file_type: application/pdf
+parent_uid: 31ce5c52-9cc0-9735-d43f-ed0218389c93
 resourcetype: Document
 title: lecture_22.pdf
 uid: e414a5b5-eb98-5d45-6132-7e329775d9fa

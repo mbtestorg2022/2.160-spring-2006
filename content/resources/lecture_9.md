@@ -5,6 +5,7 @@ description: This resource includes information on prediction modeling of linear
   and prediction.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-160-identification-estimation-and-learning-spring-2006/ea6519d668f17c0f84384bf4aadd408a_lecture_9.pdf
 file_type: application/pdf
+parent_uid: 31ce5c52-9cc0-9735-d43f-ed0218389c93
 resourcetype: Document
 title: lecture_9.pdf
 uid: ea6519d6-68f1-7c0f-8438-4bf4aadd408a

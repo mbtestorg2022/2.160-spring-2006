@@ -5,6 +5,7 @@ description: This resource includes information on kalman gain, updating the err
   with some questions.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-160-identification-estimation-and-learning-spring-2006/5374ca7c1c6c42d50e1a59807d00f438_lecture_6.pdf
 file_type: application/pdf
+parent_uid: 31ce5c52-9cc0-9735-d43f-ed0218389c93
 resourcetype: Document
 title: lecture_6.pdf
 uid: 5374ca7c-1c6c-42d5-0e1a-59807d00f438

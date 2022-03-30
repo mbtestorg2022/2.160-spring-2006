@@ -6,6 +6,7 @@ description: This resource explains the topics review of system ID theories for 
   binary signal (PRBS), sinusoidal inputs.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-160-identification-estimation-and-learning-spring-2006/fa7602cf93c47afdc6b070fa549d3566_lecture_19.pdf
 file_type: application/pdf
+parent_uid: 31ce5c52-9cc0-9735-d43f-ed0218389c93
 resourcetype: Document
 title: lecture_19.pdf
 uid: fa7602cf-93c4-7afd-c6b0-70fa549d3566

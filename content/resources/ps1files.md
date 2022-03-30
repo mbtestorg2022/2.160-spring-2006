@@ -4,6 +4,7 @@ description: 'This resource includes a ZIP file that contains: 13 .txt files to 
   problem set 1.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-160-identification-estimation-and-learning-spring-2006/19012a78917ff64c5384073ead6d6e70_ps1files.zip
 file_type: application/zip
+parent_uid: 759dd49e-b336-0daa-c4de-86c8ab3ef83c
 resourcetype: Other
 title: ps1files.zip
 uid: 19012a78-917f-f64c-5384-073ead6d6e70

@@ -4,6 +4,7 @@ description: This resource includes information on linear stable system, continu
   Laguerre series expansion, and cardiovascular network of a human.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-160-identification-estimation-and-learning-spring-2006/652d7dcea6b832373992c1ed7544a808_ps5.pdf
 file_type: application/pdf
+parent_uid: 759dd49e-b336-0daa-c4de-86c8ab3ef83c
 resourcetype: Document
 title: ps5.pdf
 uid: 652d7dce-a6b8-3237-3992-c1ed7544a808

@@ -4,6 +4,7 @@ description: This resource includes information on multilayer neural network wit
   two hidden layers, Gaussian functions, RBF network, and Generalized Lloyd algorithm.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-160-identification-estimation-and-learning-spring-2006/d8d5be10e1190dd2aca9ccbce085a022_ps6.pdf
 file_type: application/pdf
+parent_uid: 759dd49e-b336-0daa-c4de-86c8ab3ef83c
 resourcetype: Document
 title: ps6.pdf
 uid: d8d5be10-e119-0dd2-aca9-ccbce085a022

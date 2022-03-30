@@ -5,6 +5,7 @@ description: This resource includes information on the physical meaning of matri
   orthogonal projection, and multi-output, weighted least squares estimation.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-160-identification-estimation-and-learning-spring-2006/0223ccdb1348e84e3a5f04fc0af46edf_lecture_3.pdf
 file_type: application/pdf
+parent_uid: 31ce5c52-9cc0-9735-d43f-ed0218389c93
 resourcetype: Document
 title: lecture_3.pdf
 uid: 0223ccdb-1348-e84e-3a5f-04fc0af46edf
